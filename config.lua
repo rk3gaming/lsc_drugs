@@ -1,7 +1,5 @@
 Config = {}
 
-Config.Framework = "esx" -- esx or qb. oxcore coming soon.
-
 Config.Messages = true -- Set to true to send a message to the player after using a drug.
 
 -- Duration = How long it takes to use said drug, every 1000 = 1 second.
